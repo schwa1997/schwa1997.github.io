@@ -8,7 +8,7 @@
 html{
 	font-family: 'Anton', sans-serif;
 	/* font-family: microsoft yahei,helvetica,simhei,simsun,sans-serif; */
-	background: linear-gradient(to right, #77a1d3, #79cbca, #e684ae);;
+	background: linear-gradient(to right, #77a1d3, #79cbca, #e684ae);
 }
 
 a {
@@ -395,7 +395,7 @@ table td {
 #footer{
 	font-size: 14px;
 	height: 50px;
-	background: linear-gradient(to right, #77a1d3, #79cbca, #e684ae);
+	background: linear-gradient(to right, #77a1d3, #79cbca, #e684ae);;
 	text-align: center;
 	position: fixed;
 	bottom:0;
